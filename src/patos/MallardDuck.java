@@ -1,6 +1,7 @@
 package patos;
 
 import voos.FlyWithWings;
+import quacks.Quack;
 
 public class MallardDuck extends Duck {
     public MallardDuck() {
